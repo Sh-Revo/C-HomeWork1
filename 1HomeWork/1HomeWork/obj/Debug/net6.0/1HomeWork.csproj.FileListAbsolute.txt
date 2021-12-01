@@ -1,0 +1,15 @@
+H:\С# учеба\1git\1HomeWork\1HomeWork\bin\Debug\net6.0\1HomeWork.exe
+H:\С# учеба\1git\1HomeWork\1HomeWork\bin\Debug\net6.0\1HomeWork.deps.json
+H:\С# учеба\1git\1HomeWork\1HomeWork\bin\Debug\net6.0\1HomeWork.runtimeconfig.json
+H:\С# учеба\1git\1HomeWork\1HomeWork\bin\Debug\net6.0\1HomeWork.dll
+H:\С# учеба\1git\1HomeWork\1HomeWork\bin\Debug\net6.0\ref\1HomeWork.dll
+H:\С# учеба\1git\1HomeWork\1HomeWork\bin\Debug\net6.0\1HomeWork.pdb
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.csproj.AssemblyReference.cache
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.AssemblyInfoInputs.cache
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.AssemblyInfo.cs
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.csproj.CoreCompileInputs.cache
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.dll
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\ref\1HomeWork.dll
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.pdb
+H:\С# учеба\1git\1HomeWork\1HomeWork\obj\Debug\net6.0\1HomeWork.genruntimeconfig.cache
