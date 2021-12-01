@@ -64,10 +64,7 @@ namespace HomeWork
         }
         static void Main()
         {
-            //Ctrl + K + D          => format selection
-            //Ctrl + R   + Ctrl + W => show spaces
-            // Win + Shift + S      => screenshot of area
-            // Ctrl + R + R         => global renaming
+
             //Task1();
             //Task2();
             //Task3();
